@@ -1,2 +1,2 @@
-# tent-web
-Web Interface for github.com/securityfirst/tent
+# Tent Web
+Web Interface for [Tent](github.com/securityfirst/tent)
